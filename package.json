@@ -1,0 +1,23 @@
+{
+  "name": "a1-introduction",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryRomaniuk/a1-introduction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitryRomaniuk/a1-introduction/issues"
+  },
+  "homepage": "https://github.com/DmitryRomaniuk/a1-introduction#readme",
+  "dependencies": {
+    "node-static": "^0.7.9"
+  }
+}
